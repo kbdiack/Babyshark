@@ -17,5 +17,10 @@ Le but est de trouver une solution réalisable pour ce problème.
 - `Pandas`
 - `numpy `
 
+## Contenu
+
+Ce dépôt contient:
+* **Data** :
+* **Main.py** :
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
