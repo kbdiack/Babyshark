@@ -21,9 +21,11 @@ Le but est de trouver une solution réalisable pour ce problème.
 
 Ce dépôt contient:
 * **Data** :contient l'ensemble des données utilisées dans ce projet.
-* **Model.py** :
-* **Enum.py** :
-* **B&B.py** :
-* **Main.py** :
+* **Model.py** :est la résolution du modèle ci_dessus avec l'aide du solver GUROBI.
+* **Enum.py** :est l'implementation de l'algorithme d'énumération.
+* **B&B.py** :est l'implementation de l'algorithme de Branch and bound.
+* **Main.py** :est l'environnement d'exécution principale.
+
+Ce code est sous licence MIT, n’hésitez donc pas à le modifier et/ou à l’utiliser dans vos projets. Si vous avez des doutes, n’hésitez pas à me contacter ou à contribuer à ce dépôt en créant un problème.
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
