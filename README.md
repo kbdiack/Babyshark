@@ -20,7 +20,10 @@ Le but est de trouver une solution réalisable pour ce problème.
 ## Contenu
 
 Ce dépôt contient:
-* **Data** :
+* **Data** :contient l'ensemble des données utilisées dans ce projet.
+* **Model.py** :
+* **Enum.py** :
+* **B&B.py** :
 * **Main.py** :
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
